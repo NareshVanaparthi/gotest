@@ -1,3 +1,3 @@
-module github.com/NareshVanaparthi/gotest
+module example.com/gotest
 
 go 1.20
